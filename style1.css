@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+
+#section1 {
+    float: left;
+    background-color: aqua;
+}
+#section2 {
+   float: right;
+   background-color: aquamarine;
+}
+#clear-div {
+    clear: both;
+}
+#section3 {
+    background-color: royalblue;
+}
